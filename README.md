@@ -171,8 +171,11 @@ This analysis draws on Singapore statute, common law precedent, and IPOS/EPO exa
 |---|---|---|
 
 | Lab 001 | ✅ Complete | Initial agent runtime setup and architecture observation |
+
 | Lab 002 | ✅ Complete | Permission model validation and sandbox gap analysis |
+
 | Lab 003 | ✅ Complete | Prompt injection boundary testing |
+
 | Lab 004 | ✅ Complete | Tool execution governance & permission escalation |
 
 ---
